@@ -1,5 +1,6 @@
 ## Introdução
 
+Adoro *trabalhar* _com_ o **git**.
 ### Objetivos
 
 
